@@ -1,7 +1,7 @@
 ---
 layout: post
-title: vim如何一次复制多次粘贴？
-subtitle: 初次认识vim寄存器
+title: 【Vim】如何一次复制多次粘贴？
+subtitle: 初次认识 Vim 寄存器
 tags: [vim, tool]
 ---
 
