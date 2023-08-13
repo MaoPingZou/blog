@@ -68,7 +68,7 @@ expect eof
   >  表示使用`spawn`打开`ssh`这个程序，并取前面设置好的用户名和主机地址作为参数。<br>
   >  `spawn`这个命令可以用来运yy行任何交互式脚本或程序，非常强大。
 
-- ` expect "*password:*"`
+- `expect "*password:*"`
   > `expect`命令表示期待读取到什么字符。后面字符中的`*`表示通配符。用过`ssh`的小伙伴应该都知道，当输入`ssh`之后，会要求你要输入密码。
 
 - `send "$password\r"`
