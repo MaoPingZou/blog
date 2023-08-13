@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Vim】Idea中Vim插件结合EasyMotion插件高级玩法
+title: 【Vim】IDEA中Vim插件结合EasyMotion插件高级玩法
 subtitle: 强强联合，变成无情跳转机器！
 tags: [idea, vim, tool]
 ---
