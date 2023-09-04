@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: ZMP's Blog
+title: MaoPing's Blog
 
 # Your name to show in the footer
 author: 邹茂萍
@@ -90,7 +90,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "zoumaoping"
+keywords: "MaoPing"
 
 ######################################
 # --- Colours / background image --- #
