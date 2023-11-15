@@ -3,6 +3,9 @@ layout: page
 title: Book List
 ---
 
+{: .box-success}
+从经过时间洗礼过的经典书籍中，获取经验与教训，寻找未来的路。
+
 ### 作为一名程序员，为什么要读书？
 推荐阅读编程技术问答网站 [`Stack Overflow`][4] 创始人之一 [`Jeff Atwood`][5]，在 2008 年 4 月 28 日在他的个人博客 [Coding Horror][3] 上发布的下面这篇文章：<br>
 > [Programmers Don't Read Books -- But You Should][1]
@@ -52,10 +55,26 @@ title: Book List
 > [《Spring 揭秘》](https://book.douban.com/subject/3897837/)：作者 王福强。作者在多年的工作中积累的第一手Spring框架使用经验的总结，深入剖析了Spring框架各个模块的功能、出现的背景、设计理念和设计原理，值得一读。<br>
 
 > #### 个人成长相关
+> [《把时间当作朋友：运用心智获得解放》](https://book.douban.com/subject/3609132/)<br>
+> [《少有人走的路》]()<br>
+> [《向上成长》]()<br>
+> [《软技能：代码之外的生存指南》](https://book.douban.com/subject/35043940/)<br>
+> [《软技能2：软件开发者职业生涯指南》]()<br>
+> [《财富自由之路》]()<br>
+> [《》]()<br>
 
 > #### 社会科学相关
+> [《心流》]()<br>
+> [《稀缺》]()<br>
+> [《》]()<br>
+> [《》]()<br>
+> [《》]()<br>
 
 > #### 财富相关
+> [《》]()<br>
+> [《世界上最简单的会计书》](https://book.douban.com/subject/25747852/)<br>
+> [《》]()<br>
+> [《》]()<br>
 
 [1]: https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
 [2]: https://mp.weixin.qq.com/s/Vb9wA2BUKwWdE5sbEvBqkQ
