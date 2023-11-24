@@ -56,25 +56,22 @@ title: Book List
 
 > #### 个人成长相关
 > [《把时间当作朋友：运用心智获得解放》](https://book.douban.com/subject/3609132/)<br>
-> [《少有人走的路》]()<br>
-> [《向上成长》]()<br>
+> [《少有人走的路》](https://book.douban.com/subject/1775691/)<br>
+> [《向上生长》](https://book.douban.com/subject/35060315/)<br>
 > [《软技能：代码之外的生存指南》](https://book.douban.com/subject/35043940/)<br>
 > [《软技能2：软件开发者职业生涯指南》]()<br>
-> [《财富自由之路》]()<br>
-> [《》]()<br>
+> [《财富自由之路》](https://book.douban.com/subject/27094706/)<br>
 
 > #### 社会科学相关
-> [《心流》]()<br>
-> [《稀缺》]()<br>
-> [《》]()<br>
-> [《》]()<br>
-> [《》]()<br>
+> [《心流》](https://book.douban.com/subject/27186106/)<br>
+> [《稀缺》](https://book.douban.com/subject/36110828/)<br>
 
 > #### 财富相关
-> [《》]()<br>
+> [《投资最重要的事》](https://book.douban.com/subject/10799082/)<br>
 > [《世界上最简单的会计书》](https://book.douban.com/subject/25747852/)<br>
-> [《》]()<br>
-> [《》]()<br>
+
+
+> 好书是一扇窗，不断更新中......
 
 [1]: https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
 [2]: https://mp.weixin.qq.com/s/Vb9wA2BUKwWdE5sbEvBqkQ
