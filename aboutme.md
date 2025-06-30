@@ -80,6 +80,6 @@ subtitle: I am responsible for my own education.
 
 
 <br>
-PS: 希望能和优秀的你链接，我的邮箱是：zoulao749@gmail.com，微信是：zmp-cx
+PS: 希望能和优秀的你链接，我的邮箱是：zoulao749@gmail.com，微信是：Andy_hopeful
 
 [1]: https://book.douban.com/subject/34432673/?dt_dapp=1 "没有自学能力的人没有未来"
